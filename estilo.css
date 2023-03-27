@@ -56,10 +56,11 @@ padding: 15px 20px;
 }
 
 .nav-responsive{
-    background-color: #48D9B0;
-    color: #fff;
+    background-color: #081526;
+    color:  #48D9B0;
     padding: 5px 10px;
-    border-radius: 5px;
+    border-radius: 15px;
+    border-color:  #48D9B0;;
     cursor: pointer;
     display: none;
 
